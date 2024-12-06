@@ -20,4 +20,4 @@ if mouse_check_button(mb_left) && (ReloadTimer = 0)
 if (ReloadTimer > 0)
 	//ReloadTimer--)
 	//hello daar
-	//asdasdwa
+	//nuut
