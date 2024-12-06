@@ -1,0 +1,14 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sptAttacks",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sptAttacks",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+  "tags":[],
+}

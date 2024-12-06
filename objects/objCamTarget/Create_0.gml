@@ -1,0 +1,1 @@
+TargPlayer = -1
