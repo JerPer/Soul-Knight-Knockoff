@@ -1,10 +1,11 @@
-function RangedAttack(dir, s) 
+function RangedAttack(dir, BulletObject, ShotSpeed, ShotDamage) 
 {
-    var dir = point_direction(x, y, mouse_x, mouse_y)
-	var shotBullet = instance_create_layer(x + 22 * dcos(-dir), y + 22 * dsin(-dir), "Projectiles", Bullet)
+	var shotBullet = instance_create_layer(x + 22 * dcos(-dir), y + 22 * dsin(-dir), "Projectiles", BulletObject)
 	shotBullet.image_angle = dir
-	shotBullet.hspd = BulletSpeed * dcos(-dir)
-	shotBullet.vspd = BulletSpeed * dsin(-dir)
-	shotBullet.damage = BulletDamage
+	shotBullet.hspd = ShotSpeed * dcos(-dir)
+	shotBullet.vspd = ShotSpeed * dsin(-dir)
+	shotBullet.damage = ShotDamage
 	shotBullet.shotBy = CarriedBy
+	
+	return shotBullet
 }
