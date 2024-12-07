@@ -10,3 +10,6 @@ if (ColorMerge > 255)
 
 if Invincible > 0
     Invincible--
+
+if hp <= 0
+    instance_destroy()

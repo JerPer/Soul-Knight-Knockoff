@@ -26,27 +26,4 @@ if (mouse_x > x)
 else
 	image_index = 1
 
-//collision
-if (place_meeting(x + hspd, y,objParentImpassibles)) == false
-{
-	x += hspd
-}
-else
-{
-	while ((place_meeting(x + sign(hspd), y,objParentImpassibles)) == false)
-	{
-		x += sign(hspd)
-	}
-}
-
-if (place_meeting(x, y + vspd,objParentImpassibles)) == false
-{
-	y += vspd
-}
-else
-{
-	while ((place_meeting(x, y + sign(vspd),objParentImpassibles)) == false)
-	{
-		y += sign(vspd)
-	}
-}
+MoveCollide(hspd,vspd,objParentImpassibles)

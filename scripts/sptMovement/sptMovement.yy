@@ -1,0 +1,14 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sptMovement",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sptMovement",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"1.0",
+  "tags":[],
+}

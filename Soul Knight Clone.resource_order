@@ -31,11 +31,12 @@
   "ResourceOrderSettings":[
     {"name":"objAKItem","order":1,"path":"objects/objAKItem/objAKItem.yy",},
     {"name":"objBlock","order":1,"path":"objects/objBlock/objBlock.yy",},
-    {"name":"sptAttacks","order":1,"path":"scripts/sptAttacks/sptAttacks.yy",},
     {"name":"objCamTarget","order":2,"path":"objects/objCamTarget/objCamTarget.yy",},
     {"name":"objParentBulletWeapons","order":2,"path":"objects/objParentBulletWeapons/objParentBulletWeapons.yy",},
     {"name":"objParentPlayer","order":1,"path":"objects/objParentPlayer/objParentPlayer.yy",},
     {"name":"objParentWeapon","order":1,"path":"objects/objParentWeapon/objParentWeapon.yy",},
     {"name":"objTestEnemy","order":1,"path":"objects/objTestEnemy/objTestEnemy.yy",},
+    {"name":"sptAttacks","order":1,"path":"scripts/sptAttacks/sptAttacks.yy",},
+    {"name":"sptMovement","order":2,"path":"scripts/sptMovement/sptMovement.yy",},
   ],
 }
