@@ -9,6 +9,5 @@
     "path":"folders/Scripts.yy",
   },
   "resourceType":"GMScript",
-  "resourceVersion":"1.0",
-  "tags":[],
+  "resourceVersion":"2.0",
 }

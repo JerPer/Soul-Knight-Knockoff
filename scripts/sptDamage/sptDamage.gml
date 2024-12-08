@@ -12,6 +12,9 @@ function RangedHit( Attacker, Projectile = id, Victim){
         
             hp -= (Projectile.damage - defense)
             
+            hitFrom = [x, y]
+            knockedBack = 1
+            alarm_set(0, 5)
             
             Invincible = IFrames
         }

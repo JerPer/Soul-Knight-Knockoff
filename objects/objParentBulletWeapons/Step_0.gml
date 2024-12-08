@@ -8,6 +8,8 @@ if mouse_check_button(mb_left) && (ReloadTimer <= 0)
 {
 	RangedAttack(point_direction(x, y, mouse_x, mouse_y), Bullet, BulletSpeed, BulletDamage)
 	
+	audio_play_sound(sndGunShoot, 10, false, global.MasterVolume)
+	
 	ReloadTimer = ReloadTime
 }
 

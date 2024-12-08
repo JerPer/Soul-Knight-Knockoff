@@ -9,3 +9,8 @@ function RangedAttack(dir, BulletObject, ShotSpeed, ShotDamage)
 	
 	return shotBullet
 }
+
+function MeleeAttack(dir, swingSpeed, lifetime, HitDamage)
+{
+	
+}

@@ -7,8 +7,8 @@
   "managed":true,
   "name":"objTestEnemy",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"objParentEnemies","path":"objects/objParentEnemies/objParentEnemies.yy",},"propertyId":{"name":"hp","path":"objects/objParentEnemies/objParentEnemies.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","value":"100",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"objParentEnemies","path":"objects/objParentEnemies/objParentEnemies.yy",},"propertyId":{"name":"IFrames","path":"objects/objParentEnemies/objParentEnemies.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","value":"10",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"objParentEnemies","path":"objects/objParentEnemies/objParentEnemies.yy",},"propertyId":{"name":"hp","path":"objects/objParentEnemies/objParentEnemies.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"100",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"objParentEnemies","path":"objects/objParentEnemies/objParentEnemies.yy",},"propertyId":{"name":"IFrames","path":"objects/objParentEnemies/objParentEnemies.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"10",},
   ],
   "parent":{
     "name":"Melee Enemies",

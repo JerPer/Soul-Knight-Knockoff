@@ -1,5 +1,8 @@
 function MoveCollide(HDist, VDist, Collidables)
 {
+	HDist = round(HDist)
+	VDist = round(VDist)
+	
     if (place_meeting(x + HDist, y,Collidables)) == false // horizontal check and move
     {
 	    x += HDist
