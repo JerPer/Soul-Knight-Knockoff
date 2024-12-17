@@ -5,4 +5,5 @@ updates = 5
 pierce = 1
 prevx = x
 prevy = y
-shotBy = -1 
+shotBy = -1
+targets = -1

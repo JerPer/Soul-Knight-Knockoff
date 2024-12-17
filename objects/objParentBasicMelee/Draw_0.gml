@@ -1,0 +1,1 @@
+draw_sprite_ext(sprite_index, -1, x, y, scale, scale, orient, -1, 1)

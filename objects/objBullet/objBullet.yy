@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Projectiles",
-    "path":"folders/Objects/Projectiles.yy",
+    "path":"folders/Objects/Attacks/Projectiles.yy",
   },
   "parentObjectId":null,
   "persistent":false,

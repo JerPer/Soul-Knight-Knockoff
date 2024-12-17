@@ -12,7 +12,7 @@ function RangedHit( Attacker, Projectile = id, Victim){
         
             hp -= (Projectile.damage - defense)
             
-            hitFrom = [x, y]
+            hitFrom = [other.shotBy.x, other.shotBy.y]
             knockedBack = 1
             alarm_set(0, 5)
             

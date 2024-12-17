@@ -6,6 +6,8 @@ WeaponSlot2 = noone
 
 #macro BASESPD 5
 
+hp = maxHP
+
 ActiveCam = view_camera[0]
 
 camera_set_view_border(ActiveCam, camera_get_view_width(ActiveCam)/2 ,camera_get_view_height(ActiveCam)/2)

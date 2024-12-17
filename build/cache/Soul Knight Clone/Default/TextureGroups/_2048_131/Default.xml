@@ -1,10 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureGroup>
-  <texture scale="1" mipsToGenerate="0" texwidth="64" texheight="128">default_0.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="128" texheight="128">default_0.bz2</texture>
   <tpe x="2" y="2" tpage="default_0.bz2">sprBlock_75ca66c9-5e05-4656-8fb6-e3e1ece4f295.tpe</tpe>
-  <tpe x="2" y="38" tpage="default_0.bz2">sprBasicKnight_08e351cc-e7b0-43bb-b817-bcbb627ecafc.tpe</tpe>
-  <tpe x="2" y="68" tpage="default_0.bz2">sprBasicKnight_8a7fcebb-b427-4180-b611-811feb834592.tpe</tpe>
-  <tpe x="2" y="98" tpage="default_0.bz2">sprTestEnemy_b323e4a1-b9c1-4007-bf18-eb3bbae3eb80.tpe</tpe>
-  <tpe x="31" y="98" tpage="default_0.bz2">sprAK_592118df-903c-4660-9185-d1bffa5a533e.tpe</tpe>
-  <tpe x="31" y="111" tpage="default_0.bz2">sprBullet_e72af586-d8f0-4ae4-8be1-2cb36664aad8.tpe</tpe>
+  <tpe x="2" y="38" tpage="default_0.bz2">sprSweepAttack_eec9a31c-dd7d-4afe-8eff-b5aede4ec7f7.tpe</tpe>
+  <tpe x="2" y="59" tpage="default_0.bz2">sprBasicKnight_08e351cc-e7b0-43bb-b817-bcbb627ecafc.tpe</tpe>
+  <tpe x="2" y="89" tpage="default_0.bz2">sprBasicKnight_8a7fcebb-b427-4180-b611-811feb834592.tpe</tpe>
+  <tpe x="51" y="2" tpage="default_0.bz2">sprSweepAttack_7f3dfc5e-d204-4dce-9526-234143809533.tpe</tpe>
+  <tpe x="97" y="2" tpage="default_0.bz2">sprTestEnemy_b323e4a1-b9c1-4007-bf18-eb3bbae3eb80.tpe</tpe>
+  <tpe x="38" y="22" tpage="default_0.bz2">sprAK_592118df-903c-4660-9185-d1bffa5a533e.tpe</tpe>
+  <tpe x="72" y="31" tpage="default_0.bz2">sprSweepAttack_95c2ab97-0a5c-4e05-84d9-ed864e0262c3.tpe</tpe>
+  <tpe x="2" y="119" tpage="default_0.bz2">sprBullet_e72af586-d8f0-4ae4-8be1-2cb36664aad8.tpe</tpe>
 </TextureGroup>

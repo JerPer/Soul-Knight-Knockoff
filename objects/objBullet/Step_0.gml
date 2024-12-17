@@ -4,7 +4,7 @@ var incry = vspd / updates
 
 for (var i = 1; i <= updates; i++)
 {
-    var enemyHit = instance_place(x + i*incrx, y + i*incry, objParentEnemies)
+    var enemyHit = instance_place(x + i*incrx, y + i*incry, targets)
     
     if (enemyHit != noone)
     {
